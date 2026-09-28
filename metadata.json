@@ -1,0 +1,6 @@
+{
+  "name": "Urban Sentinel",
+  "description": "AI-Powered Mobile Urban Intelligence Platform - Smart India Hackathon prototype turning public buses into real-time road hazard sensing units.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
